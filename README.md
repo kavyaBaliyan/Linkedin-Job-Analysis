@@ -19,7 +19,8 @@ Present a Visualizing report in Power BI that reflects the metrics in Linkedin J
 ## Insights :
 **1. Job Market Trends**
 
-![Screenshot 2024-06-16 181330](https://github.com/kavyaBaliyan/Linkedin-Job-Analysis/assets/169433785/6f8401f1-70ce-4b07-8629-b536f617da53)
+![Screenshot 2024-06-27 112440](https://github.com/kavyaBaliyan/Linkedin-Job-Analysis/assets/169433785/16bb5af6-52f0-4c4e-93b1-e66daa167ed6)
+
 From the visual, the top 5 industries in terms of job postings being released are IT Services & IT Consulting, Software Development, Staffing & Recruiting, Technology (Information & Internet) & Financial Services. While, Bengaluru & Mumbai region has the most Job postings.
 
 During the period of March-2023 to February-2024 of the dataset, it is seen from the analysis that the Job postings have grown exponentially from the year 2023 compared to first two months of 2024.
@@ -32,7 +33,7 @@ Quarter-wise, the 1st Quarter, the period from January to March has seen the hig
 
 Month-wise Job postings visual shows that the month of January is the month with highest Job postings of 585,followed by month of December with 98 Job postings & February with 70 job postings while the rest of the months have very low number of Job postings.
 
-![Screenshot 2024-06-16 181912](https://github.com/kavyaBaliyan/Linkedin-Job-Analysis/assets/169433785/db0bca79-5c7e-4222-91a9-72d683febfbc)
+![Screenshot 2024-06-27 112039](https://github.com/kavyaBaliyan/Linkedin-Job-Analysis/assets/169433785/1f6087aa-24cc-4499-8d21-d419d04e2b5c)
 
 **2. Popular Industries & Companies**
 
@@ -92,7 +93,7 @@ This Insights gained from this analysis is beneficial for Job-seekers, employers
 ## Additional Project Image
 
 ![Screenshot 2024-06-16 190337](https://github.com/kavyaBaliyan/Linkedin-Job-Analysis/assets/169433785/f9d6ccea-46ea-476e-adc3-093238cd31e0)
-![Screenshot 2024-06-16 190405](https://github.com/kavyaBaliyan/Linkedin-Job-Analysis/assets/169433785/61b6291d-812c-4f27-bff7-13ddf46d6eed)
+![Screenshot 2024-06-27 112440](https://github.com/kavyaBaliyan/Linkedin-Job-Analysis/assets/169433785/16bb5af6-52f0-4c4e-93b1-e66daa167ed6)
 ![Screenshot 2024-06-16 190418](https://github.com/kavyaBaliyan/Linkedin-Job-Analysis/assets/169433785/eedd320a-728e-4ba0-a32e-4fe08bb530b5)
 ![Screenshot 2024-06-16 190435](https://github.com/kavyaBaliyan/Linkedin-Job-Analysis/assets/169433785/006a8704-3f71-4348-9c53-bbbf2cdc3eec)
 ![Screenshot 2024-06-16 190455](https://github.com/kavyaBaliyan/Linkedin-Job-Analysis/assets/169433785/ebd4f0c2-14b9-4e1b-814c-0651e5f45781)
